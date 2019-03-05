@@ -10,12 +10,11 @@ highlighter: rouge
 #
 title : Jervis Ong Zhe Ao
 author :
-  name : Marisa Carlos
-  email : mbc96@cornell.edu
-  github : mbcarlos
-  twitter : MarisaBriCarlos
+  name : Jervis Ong Zhe Ao
+  email : crsjoza@nus.edu.sg
+  github : papaya-cactus
 
-production_url : http://marisabriana.github.io
+production_url : http://papaya-cactus.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
