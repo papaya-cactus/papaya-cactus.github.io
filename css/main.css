@@ -159,7 +159,7 @@ a, a:focus, a:hover {
 }
 
 h1, h2, h3,
-h4, h5, h6 {
+h4, h5, h6{
   font-family: "Poppins", sans-serif;
   color: #222222;
   line-height: 1.2em !important;
@@ -198,6 +198,11 @@ h5, .h5 {
 }
 
 h6, .h6 {
+  font-size: 14px;
+  color: #222222;
+}
+
+h7, .h7 {
   font-size: 14px;
   color: #222222;
 }
@@ -2316,6 +2321,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 120px 0;
 }
 
+.p-section-gap {
+  padding: 60px 0;
+}
+
+.section-footer-gap {
+  padding: 60px 0;
+}
+
 .alert-msg {
   color: #008000;
 }
@@ -2914,6 +2927,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 .recent-blog-area p {
   margin-bottom: 45px;
   text-align: center;
+}
+
+.recent-blog-area k1 {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  text-align: center;
+  vertical-align: middle;
 }
 
 .single-recent-blog .thumb {
